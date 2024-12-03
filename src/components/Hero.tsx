@@ -27,7 +27,7 @@ const Hero = () => {
           </h1>
           <p className="text-xl text-gray-200 mb-8">
             Maximieren Sie die Verfügbarkeit Ihrer IT-Systeme mit unseren
-            maßgeschneiderten Monitoring-Lösungen basierend auf Zabbix Enterprise
+            maßgeschneiderten Monitoring-Lösungen
           </p>
           <a
             href="#contact"
